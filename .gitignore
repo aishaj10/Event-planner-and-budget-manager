@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment Variables
+.env
+
+# Uploads
+static/uploads/
+
+# VS Code
+.vscode/
+
+# Flask
+instance/
+
+# System Files
+.DS_Store
+Thumbs.db
