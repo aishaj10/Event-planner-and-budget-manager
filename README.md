@@ -86,16 +86,25 @@ Users can submit ratings and reviews for venues.
 7. Results are displayed on the dashboard.
 
 
-##Future Scope
-Online Venue Booking
-Payment Gateway Integration
-Mobile Application
-AI Personalized Recommendations
-Machine Learning-based Prediction
-Guest Management System
-Vendor Communication System
+# Future Scope
+
+- Online Venue Booking System
+- Payment Gateway Integration
+- Mobile Application Development
+- AI Personalized Recommendations
+- Machine Learning-based Budget Prediction
+- Guest Invitation and RSVP Management
+- Vendor Communication System
+- Advanced Analytics and Reporting
+- Real-time Notification System
+- Smart Sentiment Analysis on Reviews
+
+---
+
+# License
+
+This project is developed for academic and educational purposes only.
 
 
-##License
 
-This project is developed for academic and educational purposes
+
