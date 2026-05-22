@@ -1,6 +1,6 @@
-# Event-planner-and-budget-manager
-AI-based Event Planner and Budget Manager web application that helps users manage expenses, analyze budgets, discover nearby venues, and get planning assistance using an AI chatbot. The system uses Flask, SQLite, OpenStreetMap, and APIs for smart recommendations, maps, analytics, and reviews.
 # EVENT PLANNER AND BUDGET MANAGER
+AI-based Event Planner and Budget Manager web application that helps users manage expenses, analyze budgets, discover nearby venues, and get planning assistance using an AI chatbot. The system uses Flask, SQLite, OpenStreetMap, and APIs for smart recommendations, maps, analytics, and reviews.
+
 
 ## Overview
 Event Planner and Budget Manager is an AI-based web application developed to simplify event planning and budget management. The system helps users manage expenses, analyze budgets, discover nearby venues, and interact with an AI chatbot for planning assistance.
@@ -86,7 +86,7 @@ Users can submit ratings and reviews for venues.
 7. Results are displayed on the dashboard.
 
 
-#Future Scope
+##Future Scope
 Online Venue Booking
 Payment Gateway Integration
 Mobile Application
@@ -96,6 +96,6 @@ Guest Management System
 Vendor Communication System
 
 
-#License
+##License
 
 This project is developed for academic and educational purposes
