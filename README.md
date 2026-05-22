@@ -85,3 +85,17 @@ Users can submit ratings and reviews for venues.
 6. AI chatbot provides planning assistance.
 7. Results are displayed on the dashboard.
 
+
+#Future Scope
+Online Venue Booking
+Payment Gateway Integration
+Mobile Application
+AI Personalized Recommendations
+Machine Learning-based Prediction
+Guest Management System
+Vendor Communication System
+
+
+#License
+
+This project is developed for academic and educational purposes
